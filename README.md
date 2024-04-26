@@ -18,3 +18,18 @@ The study seeks to understand and identify the genetic diversity, evolution and 
 ## Pipeline:
 The study analysed 50 confirmed S. Concord isolates and underwent rigorous quality control measures. The reference genome was obtained through PacBio sequencing. Genomes were assembled and annotated. AMR gene detection was performed to characterize AMR profiles across isolates.
 
+## Tools Used
+
+The following bioinformatics tools are used in this workflow:
+
+- FastQC
+- Fastp
+- BWA
+- SAMtools
+- BCFtools
+- VCFtools
+- MultiQC
+- spades.py
+- prokka
+- staramr
+- pip3
