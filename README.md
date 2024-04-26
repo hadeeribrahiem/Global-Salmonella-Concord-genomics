@@ -1,7 +1,6 @@
 # Global-Salmonella-Concord-genomics
 ## Background/Introduction:
-Salmonella enterica serovar Concord (S. Concord) is a non-typhoidal Salmonella serovar that often
-causes   life-threatening   invasive   infections,   particularly   in   sub-Saharan   Africa.   It   necessitates
+Salmonella enterica serovar Concord (S. Concord) is a non-typhoidal Salmonella serovar that often causes life-threatening invasive   infections,   particularly   in   sub-Saharan   Africa.   It   necessitates
 antimicrobial treatment however, it is associated with frequent multidrug-resistant strains. Despite
 periodic reports, there is still much to learn about the bacteria.
 
@@ -17,9 +16,5 @@ The study seeks to understand and identify the genetic diversity, evolution and 
 (AMR) profiles of S. Concord. 
 
 ## Pipeline:
-The study analysed 50 confirmed S. Concord isolates and underwent rigorous quality control measures.
-The reference genome was obtained through PacBio sequencing. Genomes were annotated. In silico
-serotyping and AMR gene detection were performed to characterize AMR profiles across isolates.
-Phylogenetic trees were constructed to identify clusters and lineages, and structural differences in AMR
-regions were investigated using nanopore sequencing. Antimicrobial susceptibility profiles were
-assessed for subset isolates
+The study analysed 50 confirmed S. Concord isolates and underwent rigorous quality control measures. The reference genome was obtained through PacBio sequencing. Genomes were assembled and annotated. AMR gene detection was performed to characterize AMR profiles across isolates.
+
