@@ -1,7 +1,7 @@
 # Global-Salmonella-Concord-genomics
 
 https://drive.google.com/file/d/1fqrTlokfiPsQyLAqZpuiVWtfhb9q_59I/view?usp=drive_link
-
+https://docs.google.com/document/d/1TD0GOYOzfdNG48eDFp02cJtqgvkiyHT4/edit?usp=drive_link&ouid=104375614625294797272&rtpof=true&sd=true
 
 ## Background/Introduction:
 Salmonella enterica serovar Concord (S. Concord) is a non-typhoidal Salmonella serovar that often causes life-threatening invasive   infections,   particularly   in   sub-Saharan   Africa.   It   necessitates
