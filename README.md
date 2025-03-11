@@ -36,3 +36,10 @@ The following bioinformatics tools are used in this workflow:
 - prokka
 - staramr
 - pip3
+
+## Results
+
+Through our analysis, we came across many interesting findings: 
+1) the randomly selected isolates were resistant to different categories of antibiotics, including Aminoglycosides, Beta-lactam antibiotics, Macrolides, Quinolones, Sulphonamides, Tetracyclines, and Trimethoprim. 
+2) parC (T57S) gene mutation appeared in almost all isolates. 
+3) The first isolate has many AMR genes, which means that it resists a wide range of antibiotics. 
